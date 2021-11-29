@@ -1,3 +1,4 @@
+![code-quiz-ss](https://user-images.githubusercontent.com/92960748/143811042-4fc09912-6dd6-4e63-8426-a7412d11dd51.png)
 # Code-Quiz
 # JavaScript Quiz
 
